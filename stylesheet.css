@@ -25,6 +25,7 @@ a {
   background-size: cover;
   color: white;
   text-align: center;
+
 }
 
 .container {
@@ -90,6 +91,7 @@ header {
 
 .header-left {
   float: left;
+  height:65px
 }
 
 .header-right {
@@ -127,7 +129,7 @@ header {
 
 .lesson{
   float: left;
-  width: 25%;
+  width: 250px;
 }
 
 .lesson-icon {
@@ -167,7 +169,7 @@ header {
   background-color:#5dca88;
   opacity:0.8;
   margin:0 auto;
-  padding:15px 40px;
+  padding:15px 5px 20px 40px;
   width:150px;
   color:white;
   box-shadow:0px 7px #1a7940;
@@ -197,4 +199,3 @@ header {
 .footer p{
   font-size:12px;
 }
-
